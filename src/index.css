@@ -24,8 +24,8 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-#root{
-    overflow: hidden;
+#root {
+  overflow: hidden;
 }
 .myinput {
   padding: 13px 20px;
@@ -95,8 +95,16 @@ body {
   padding-bottom: 150px;
   overflow-x: hidden;
 }
-.over{
-    overflow-x: hidden !important;
+.over {
+  overflow-x: hidden !important;
+}
+
+.title {
+  text-align: center;
+  font: normal normal normal 16px/21px Mulish;
+  letter-spacing: 0.02px;
+  color: #36a546cc;
+  opacity: 1;
 }
 
 @media screen and (max-width: 768px) {
@@ -118,7 +126,7 @@ body {
   .myheight {
     margin-bottom: 100px;
   }
-  .custom-height{
+  .custom-height {
     height: 750px !important;
     padding-bottom: 150px;
   }
