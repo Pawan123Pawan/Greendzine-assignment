@@ -1,4 +1,4 @@
-# Project Name
+# Project User Productivity
 
 Short description of the project.
 
@@ -21,15 +21,15 @@ Short description of the project.
 
 ## Testing
 
-1. Use a mobile device emulator or a responsive design testing tool to test the app in the following viewports:
+1. A responsive design for the following viewports:
    - 412 X 914 px (Android devices).
    - 390 X 834 px (iOS devices).
 
 ## Deployment
 
-1. [Optional] Build the project using `npm run build`.
-2. Deloy my project on vercel platform .
-2. Deloy link [Optional].
+1. Build the project using `npm run build`.
+2. Deloy my project on the vercel platform.
+2. Deloy link [https://greendzine-assignment-pawan.vercel.app/].
 
 ## Additional Information
 
