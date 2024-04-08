@@ -107,6 +107,14 @@ body {
   opacity: 1;
 }
 
+.title {
+  text-align: center;
+  font: normal normal normal 16px/21px Mulish;
+  letter-spacing: 0.02px;
+  color: #36a546cc;
+  opacity: 1;
+}
+
 @media screen and (max-width: 768px) {
   .custom-height {
     height: 300px;
